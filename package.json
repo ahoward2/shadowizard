@@ -1,0 +1,22 @@
+{
+  "name": "shadowizardjs",
+  "version": "1.0.0",
+  "description": "add sweet shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahoward2/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Austin Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahoward2/shadowizard/issues"
+  },
+  "homepage": "https://github.com/ahoward2/shadowizard#readme"
+}
